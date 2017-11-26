@@ -1,0 +1,6 @@
+qiantai-home£º                            futurewp.duapp.com/ktv/index.php/home
+houtai-login£º                              futurewp.duapp.com/ktv/index.php
+
+
+usernane£ºadmin
+password£ºadmin
