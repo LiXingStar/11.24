@@ -1,0 +1,3 @@
+http://fcd1ktv.duapp.com/music/index.php/login
+     admin   123456
+http://fcd1ktv.duapp.com/music/index.php/home
