@@ -1,0 +1,5 @@
+http://liujialaoda.duapp.com/php/ktv/index.php/appindex
+
+
+
+老师 我这个ktv必须有订单和有收藏的歌单的时候  ‘我的’这个模块才不会报错
